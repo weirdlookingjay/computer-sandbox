@@ -1,3 +1,10 @@
-fastapi
-uvicorn
-pydantic
+asgiref==3.8.1
+Django==5.2.3
+djangorestframework==3.16.0
+dotenv==0.9.9
+getenv==0.2.0
+psycopg2==2.9.10
+python-dotenv==1.1.0
+sqlparse==0.5.3
+tzdata==2025.2
+requests==2.32.3
